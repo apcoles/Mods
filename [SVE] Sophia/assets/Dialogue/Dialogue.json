@@ -38,7 +38,7 @@
 "summer_Sat": "I put on eyeliner this morning.$1#$q 4001/4002 makeup_followup#Do you think my makeup looks okay?#$r 3001 25 makeup_yes#You look great.#$r 4002 -50 makeup_no#You don't need makeup to be beautiful.",
 "makeup_yes": "Hehe. Thanks, @.$4",
 "makeup_no": "O-oh. Um. But...$2#$b#...$6#$e#%Sophia doesn't want to talk anymore.",
-"makeup_followup": "$p 4001#I like looking pretty.$9#$b#Um... It Makes me feel better in a way.$1#$e#I wonder if Haley would want to do makeup together?$9",
+"makeup_followup": "$p 4001#I like looking pretty.$9#$b#It um. Makes me feel better in a way.$1|I wonder if Haley would want to do makeup together?$1",
 
 //SPRING AND GENERAL DIALOGUE
 "spring_1": "The start of spring is relaxing for me.$0#$b#Not much to do besides fermenting the wine.$1#$e#Oh. Good luck this season, @.$9",
