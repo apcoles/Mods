@@ -1,0 +1,286 @@
+{
+  "WeatherForYesterday": "Sunny",
+  "LNOSCounter": {
+    "Beach forage area 3": 1,
+    "Forest forage area 2": 1,
+    "Summit forage area 2": 1,
+    "LostWoods forage area 1": 1,
+    "LostWoods forage area 2": 1,
+    "LostWoods forage area 3": 1,
+    "LostWoods forage area 4": 1,
+    "Forest West forage area 3": 1,
+    "Forest West forage area 4": 1,
+    "Forest West forage area 5": 1,
+    "Forest West forage area 7": 1,
+    "Forest West forage area 8": 1,
+    "Forest West forage area 9": 3,
+    "Forest West forage area 10": 1,
+    "Aurora Vineyard Doll": 1,
+    "Aurora Vineyard Newspaper": 1,
+    "Golden Relic Spawn": 8,
+    "Treasure Chest Spawns": 8
+  },
+  "ExistingObjectLocations": {},
+  "SavedObjects": [
+    {
+      "MapName": "TreasureCave",
+      "Tile": "8, 7",
+      "Type": "Forage",
+      "ID": 166,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "TreasureCave",
+      "Tile": "11, 7",
+      "Type": "Forage",
+      "ID": 166,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "TreasureCave",
+      "Tile": "12, 7",
+      "Type": "Forage",
+      "ID": 166,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "TreasureCave",
+      "Tile": "9, 7",
+      "Type": "Forage",
+      "ID": 166,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "TreasureCave",
+      "Tile": "14, 7",
+      "Type": "Forage",
+      "ID": 166,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "TreasureCave",
+      "Tile": "4, 7",
+      "Type": "Forage",
+      "ID": 166,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "TreasureCave",
+      "Tile": "6, 7",
+      "Type": "Forage",
+      "ID": 166,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "DesertRailway",
+      "Tile": "69, 14",
+      "Type": "Forage",
+      "ID": 125,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "DesertRailway",
+      "Tile": "72, 16",
+      "Type": "Forage",
+      "ID": 125,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "DesertRailway",
+      "Tile": "74, 15",
+      "Type": "Forage",
+      "ID": 125,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "DesertRailway",
+      "Tile": "68, 16",
+      "Type": "Forage",
+      "ID": 125,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "DesertRailway",
+      "Tile": "71, 15",
+      "Type": "Forage",
+      "ID": 125,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "DesertRailway",
+      "Tile": "67, 15",
+      "Type": "Forage",
+      "ID": 125,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "DesertRailway",
+      "Tile": "72, 14",
+      "Type": "Forage",
+      "ID": 125,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "DesertRailway",
+      "Tile": "70, 14",
+      "Type": "Forage",
+      "ID": 125,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "ForestWest",
+      "Tile": "53, 30",
+      "Type": "Forage",
+      "ID": 167,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "ForestWest",
+      "Tile": "47, 27",
+      "Type": "Forage",
+      "ID": 168,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "ForestWest",
+      "Tile": "64, 19",
+      "Type": "Forage",
+      "ID": 168,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "ForestWest",
+      "Tile": "70, 26",
+      "Type": "Forage",
+      "ID": 168,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "ForestWest",
+      "Tile": "10, 5",
+      "Type": "Forage",
+      "ID": 724,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "ForestWest",
+      "Tile": "61, 150",
+      "Type": "Forage",
+      "ID": 109,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "ForestWest",
+      "Tile": "59, 147",
+      "Type": "Forage",
+      "ID": 109,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "ForestWest",
+      "Tile": "76, 147",
+      "Type": "Forage",
+      "ID": 109,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "LostWoods",
+      "Tile": "22, 76",
+      "Type": "Forage",
+      "ID": 104,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Summit",
+      "Tile": "21, 25",
+      "Type": "Forage",
+      "ID": 109,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "TreasureCave",
+      "Tile": "16, 7",
+      "Type": "Forage",
+      "ID": 166,
+      "Name": null,
+      "DaysUntilExpire": 1,
+      "MonType": null,
+      "SpawnTime": 600
+    }
+  ]
+}

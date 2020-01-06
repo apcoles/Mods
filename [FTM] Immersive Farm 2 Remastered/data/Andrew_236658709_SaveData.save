@@ -1,0 +1,357 @@
+{
+  "WeatherForYesterday": "Sunny",
+  "LNOSCounter": {},
+  "ExistingObjectLocations": {},
+  "SavedObjects": [
+    {
+      "MapName": "Farm",
+      "Tile": "107, 138",
+      "Type": "LargeObject",
+      "ID": 600,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "110, 141",
+      "Type": "LargeObject",
+      "ID": 600,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "101, 136",
+      "Type": "LargeObject",
+      "ID": 600,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "119, 142",
+      "Type": "LargeObject",
+      "ID": 600,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "102, 142",
+      "Type": "LargeObject",
+      "ID": 600,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "106, 145",
+      "Type": "LargeObject",
+      "ID": 600,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "99, 140",
+      "Type": "LargeObject",
+      "ID": 600,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "115, 144",
+      "Type": "LargeObject",
+      "ID": 600,
+      "Name": null,
+      "DaysUntilExpire": 0,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "30, 141",
+      "Type": "Ore",
+      "ID": 670,
+      "Name": "Stone",
+      "DaysUntilExpire": 1,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "28, 151",
+      "Type": "Ore",
+      "ID": 668,
+      "Name": "Stone",
+      "DaysUntilExpire": 1,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "27, 149",
+      "Type": "Ore",
+      "ID": 668,
+      "Name": "Stone",
+      "DaysUntilExpire": 1,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "30, 139",
+      "Type": "Ore",
+      "ID": 668,
+      "Name": "Stone",
+      "DaysUntilExpire": 1,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "30, 144",
+      "Type": "Ore",
+      "ID": 668,
+      "Name": "Stone",
+      "DaysUntilExpire": 1,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "37, 152",
+      "Type": "Ore",
+      "ID": 670,
+      "Name": "Stone",
+      "DaysUntilExpire": 1,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "31, 149",
+      "Type": "Ore",
+      "ID": 670,
+      "Name": "Stone",
+      "DaysUntilExpire": 2,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "42, 151",
+      "Type": "Ore",
+      "ID": 670,
+      "Name": "Stone",
+      "DaysUntilExpire": 2,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "35, 143",
+      "Type": "Ore",
+      "ID": 670,
+      "Name": "Stone",
+      "DaysUntilExpire": 2,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "44, 143",
+      "Type": "Ore",
+      "ID": 670,
+      "Name": "Stone",
+      "DaysUntilExpire": 2,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "31, 142",
+      "Type": "Ore",
+      "ID": 668,
+      "Name": "Stone",
+      "DaysUntilExpire": 3,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "25, 148",
+      "Type": "Ore",
+      "ID": 668,
+      "Name": "Stone",
+      "DaysUntilExpire": 3,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "46, 151",
+      "Type": "Ore",
+      "ID": 670,
+      "Name": "Stone",
+      "DaysUntilExpire": 3,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "30, 140",
+      "Type": "Ore",
+      "ID": 668,
+      "Name": "Stone",
+      "DaysUntilExpire": 3,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "35, 152",
+      "Type": "Ore",
+      "ID": 668,
+      "Name": "Stone",
+      "DaysUntilExpire": 3,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "35, 151",
+      "Type": "Ore",
+      "ID": 668,
+      "Name": "Stone",
+      "DaysUntilExpire": 4,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "34, 143",
+      "Type": "Ore",
+      "ID": 668,
+      "Name": "Stone",
+      "DaysUntilExpire": 4,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "41, 144",
+      "Type": "Ore",
+      "ID": 668,
+      "Name": "Stone",
+      "DaysUntilExpire": 4,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "30, 147",
+      "Type": "Ore",
+      "ID": 668,
+      "Name": "Stone",
+      "DaysUntilExpire": 4,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "19, 142",
+      "Type": "Ore",
+      "ID": 670,
+      "Name": "Stone",
+      "DaysUntilExpire": 4,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "38, 148",
+      "Type": "Ore",
+      "ID": 670,
+      "Name": "Stone",
+      "DaysUntilExpire": 4,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "26, 139",
+      "Type": "Ore",
+      "ID": 670,
+      "Name": "Stone",
+      "DaysUntilExpire": 4,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "41, 146",
+      "Type": "Ore",
+      "ID": 670,
+      "Name": "Stone",
+      "DaysUntilExpire": 4,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "39, 148",
+      "Type": "Ore",
+      "ID": 670,
+      "Name": "Stone",
+      "DaysUntilExpire": 4,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "Farm",
+      "Tile": "45, 148",
+      "Type": "Ore",
+      "ID": 670,
+      "Name": "Stone",
+      "DaysUntilExpire": 4,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "DeepCave",
+      "Tile": "11, 30",
+      "Type": "Forage",
+      "ID": 568,
+      "Name": null,
+      "DaysUntilExpire": 1,
+      "MonType": null,
+      "SpawnTime": 600
+    },
+    {
+      "MapName": "DeepCave",
+      "Tile": "11, 27",
+      "Type": "Forage",
+      "ID": 535,
+      "Name": null,
+      "DaysUntilExpire": 1,
+      "MonType": null,
+      "SpawnTime": 600
+    }
+  ]
+}
