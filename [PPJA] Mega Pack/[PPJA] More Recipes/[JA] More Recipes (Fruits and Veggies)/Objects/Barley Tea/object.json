@@ -38,7 +38,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "麦茶",
         "pt": "Chá de cevada",
          // "ru": "",
          // "tr": "",
@@ -52,10 +52,15 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "「むぎちゃ」の名前で知られている。",
         "pt": "Também conhecido como mugicha.",
          // "ru": "",
          // "tr": "",
         "zh": "大麦茶。也称为mugicha。",
-    }
+    },
+    "ContextTags": [
+        "recipe_year_2",
+        "color_brown",
+        "tea_item",
+    ],
 }

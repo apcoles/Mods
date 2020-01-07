@@ -39,12 +39,12 @@
     "NameLocalization":
     {
         "es": "Chocolate",
-        "ko": "초콜렛",
+        "ko": "초콜릿",
         "de": "Schokolade",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "チョコレート",
         "pt": "Chocolate",
          // "ru": "",
          // "tr": "",
@@ -53,12 +53,12 @@
     "DescriptionLocalization":
     {
         "es": "¡Decadente!",
-        "ko": "황홀함!",
-        "de": "Schokolalalade!Schokolalaladeee ",
+        "ko": "황홀한 맛!",
+        "de": "Dekadent!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "魅惑的！",
         "pt": "Decadente!",
          // "ru": "",
          // "tr": "",

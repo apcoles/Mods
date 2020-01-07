@@ -45,12 +45,12 @@
     "NameLocalization":
     {
         "es": "Té de especias",
-        "ko": "매운 차",
-        "de": "Zimttee",
+        "ko": "스파이스 티",
+        "de": "Gewürztee",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "スパイスティー",
         "pt": "Chá de especiarias",
          // "ru": "",
          // "tr": "",
@@ -59,15 +59,20 @@
     "DescriptionLocalization":
     {
         "es": "Una mezcla caliente de canela y limón.",
-        "ko": "계피와 레몬의 따스한 만남.",
+        "ko": "시나몬과 레몬의 따스한 만남.",
         "de": "Eine wärmende Mischung aus Zimt und Zitrone.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "シナモンとレモンのブレンドティー。。",
         "pt": "Uma mistura quente de canela e Limão siciliano.",
          // "ru": "",
          // "tr": "",
         "zh": "香料茶。肉桂和柠檬的混合。",
-    }
+    },
+    "ContextTags": [
+        "color_red",
+        "color_pink",
+        "tea_item",
+    ],
 }

@@ -35,29 +35,33 @@
     "NameLocalization":
     {
         "es": "Té de jazmín",
-        "ko": "자스민 차",
+        "ko": "자스민 티",
         "de": "Jasmintee",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ジャスミンティー",
         "pt": "Chá de jasmim",
          // "ru": "",
          // "tr": "",
-        "zh": "茉莉花茶",
+        "zh": "甜茉莉花茶",
     },
     "DescriptionLocalization":
     {
         "es": "Un té exótico hecho con pétalos de jazmín.",
         "ko": "자스민 꽃잎으로 만든 이국적인 차.",
-        "de": "Ein exotischer Tee mit Jasminblättern.",
+        "de": "Ein exotischer Tee aus Jasminblättern.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ジャスミンの花びらでいれるエキゾチックなお茶。",
         "pt": "Um chá exótico feito com pétalas de jasmim.",
          // "ru": "",
          // "tr": "",
-        "zh": "茉莉花茶。一种带有茉莉花香的异国茶。",
-    }
+        "zh": "甜茉莉花茶。一种带有茉莉花香的异国茶。",
+    },
+    "ContextTags": [
+        "color_white",
+        "tea_item",
+    ],
 }

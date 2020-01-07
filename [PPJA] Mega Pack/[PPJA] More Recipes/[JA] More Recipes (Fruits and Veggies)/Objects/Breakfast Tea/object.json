@@ -44,7 +44,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ブレックファストティー",
         "pt": "Chá da manhã",
          // "ru": "",
          // "tr": "",
@@ -53,15 +53,19 @@
     "DescriptionLocalization":
     {
         "es": "Un popular té azucarado.",
-        "ko": "설탕이 들어간 인기 있는 차.",
+        "ko": "인기가 많은, 달달한 차 입니다.",
         "de": "Ein beliebter, gezuckerter Tee.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ポピュラーな砂糖入りのお茶。",
         "pt": "Um chá popular e açucarado.",
          // "ru": "",
          // "tr": "",
-        "zh": "早餐茶。一种很受欢迎的，加糖的茶。",
-    }
+        "zh": "早餐茶。一种颇受好评的加糖的茶。",
+    },
+    "ContextTags": [
+        "color_gray",
+        "tea_item",
+    ],
 }

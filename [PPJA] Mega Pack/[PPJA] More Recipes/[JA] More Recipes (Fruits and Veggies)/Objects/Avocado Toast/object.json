@@ -36,11 +36,11 @@
     {
         "es": "Tostada de aguacate",
         "ko": "아보카도 토스트",
-        "de": "Avocado Toast",
+        "de": "Avocadotoast",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "アボカドトースト",
         "pt": "Torrada com Abacate",
          // "ru": "",
          // "tr": "",
@@ -49,12 +49,12 @@
     "DescriptionLocalization":
     {
         "es": "¡Simplemente no lo entiendes!",
-        "ko": "단지 넌 이걸 이해하지 못해!",
+        "ko": "이해가 안 가는 음식!",
         "de": "Toast mit Avocadoaufstrich.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "食べてみないとわからない！",
         "pt": "Você simplesmente não entende!",
          // "ru": "",
          // "tr": "",

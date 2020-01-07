@@ -34,7 +34,7 @@
         }, ],
         "GiftTastes":
         {
-            "Love": ["Abigial", "Caroline", "Vincent", "Jas", "Sandy", "Penny"],
+            "Love": ["Abigail", "Caroline", "Vincent", "Jas", "Sandy", "Penny"],
             "Like": ["Jodi", "Alex", "Shane", "Evelyn", "Lewis", "Linus"],
             "Neutral": ["Marnie", "Emily", "Maru", "Pierre", "Robin", "Sam", "Demetrius", "Sebastian", "Elliott", "Leah"],
             "Dislike": ["Clint", "George", "Kent", "Gus", "Harvey", "Haley", "Dwarf"],
@@ -50,12 +50,12 @@
     "NameLocalization":
     {
         "es": "Té del sol",
-        "ko": "여름 차",
-        "de": "Sun Tee",
+        "ko": "선 티",
+        "de": "Sonnentee",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "太陽茶",
         "pt": "Chá do sol",
          // "ru": "",
          // "tr": "",
@@ -64,15 +64,15 @@
     "DescriptionLocalization":
     {
         "es": "Té negro que se ha dejado preparar en el cálido sol del desierto.",
-        "ko": "뜨거운 사막의 햇볕에 우려낸 홍차.",
-        "de": "Schwarzer Tee, der in der heißen Wüstensonne gebrüht wird.",
+        "ko": "뜨거운 사막의 태양 아래에서 끓인 홍차.",
+        "de": "Schwarzer Tee, der in der heißen Wüstensonne aufgebrüht wurde.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "砂漠のかんかん照りの太陽の下で醸造された紅茶。",
         "pt": "Chá preto deixado sob o sol quente do deserto.",
          // "ru": "",
          // "tr": "",
-        "zh": "太阳茶。在炎热的沙漠阳光下，红茶被留下来酿造。",
+        "zh": "太阳茶。在沙漠烈日下冲泡的红茶。",
     }
 }
