@@ -6,7 +6,7 @@
     "Type": "Vegetable",
 
     "Seasons": ["summer"],
-    "Phases": [1, 2, 4, 3, 2],
+    "Phases": [2, 3, 4, 3, ],
     "RegrowthPhase": -1,
     "HarvestWithScythe": false,
     "TrellisCrop": false,
@@ -27,7 +27,7 @@
     {
          // "es": "",
         "ko": "푸른 용설란 씨앗",
-         // "de": "",
+        "de": "Blaue Agaven-Saat",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -41,7 +41,7 @@
     {
          // "es": "",
         "ko": "여름 작물. 성장하려면 12일이 소요됩니다.",
-         // "de": "",
+        "de": "Pflanze sie im Sommer. Wächst in 12 Tagen heran.",
          // "fr": "",
          // "hu": "",
          // "it": "",

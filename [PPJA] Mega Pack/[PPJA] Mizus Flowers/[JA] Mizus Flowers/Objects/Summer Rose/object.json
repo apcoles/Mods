@@ -15,8 +15,8 @@
     {
         "es": "Rosa veraniega",
         "ko": "여름 장미",
-        "de": "Summer Rose",
-         // "fr": "",
+        "de": "Sommerrose",
+        "fr": "Rose d'Eté",
          // "hu": "",
          // "it": "",
         "ja": "夏バラ",
@@ -29,8 +29,8 @@
     {
         "es": "Una rosa de verano con un olor diferente a las demas.",
         "ko": "장미는 이름이 장미가 아니더라도 향기롭기는 매한가지일 것입니다.",
-        "de": "Eine Rose mit einem anderen Namen würde so süß riechen.",
-         // "fr": "",
+        "de": "Mit einem anderen Namen würde sie genauso süß riechen.",
+        "fr": "Une rose sous un autre nom aurait une odeur aussi douce.",
          // "hu": "",
          // "it": "",
         "ja": "「バラと呼ばれている花を別の名前にしても、甘く美しい香りはそのままだわ。」",
