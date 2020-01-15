@@ -24,263 +24,278 @@
   "SavedObjects": [
     {
       "MapName": "TreasureCave",
+      "Name": null,
       "Tile": "8, 7",
       "Type": "Forage",
       "ID": 166,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "TreasureCave",
+      "Name": null,
       "Tile": "11, 7",
       "Type": "Forage",
       "ID": 166,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "TreasureCave",
+      "Name": null,
       "Tile": "12, 7",
       "Type": "Forage",
       "ID": 166,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "TreasureCave",
+      "Name": null,
       "Tile": "9, 7",
       "Type": "Forage",
       "ID": 166,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "TreasureCave",
+      "Name": null,
       "Tile": "14, 7",
       "Type": "Forage",
       "ID": 166,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "TreasureCave",
+      "Name": null,
       "Tile": "4, 7",
       "Type": "Forage",
       "ID": 166,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "TreasureCave",
+      "Name": null,
       "Tile": "6, 7",
       "Type": "Forage",
       "ID": 166,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "DesertRailway",
+      "Name": null,
       "Tile": "69, 14",
       "Type": "Forage",
       "ID": 125,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "DesertRailway",
+      "Name": null,
       "Tile": "72, 16",
       "Type": "Forage",
       "ID": 125,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "DesertRailway",
+      "Name": null,
       "Tile": "74, 15",
       "Type": "Forage",
       "ID": 125,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "DesertRailway",
+      "Name": null,
       "Tile": "68, 16",
       "Type": "Forage",
       "ID": 125,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "DesertRailway",
+      "Name": null,
       "Tile": "71, 15",
       "Type": "Forage",
       "ID": 125,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "DesertRailway",
+      "Name": null,
       "Tile": "67, 15",
       "Type": "Forage",
       "ID": 125,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "DesertRailway",
+      "Name": null,
       "Tile": "72, 14",
       "Type": "Forage",
       "ID": 125,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "DesertRailway",
+      "Name": null,
       "Tile": "70, 14",
       "Type": "Forage",
       "ID": 125,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "ForestWest",
+      "Name": null,
       "Tile": "53, 30",
       "Type": "Forage",
       "ID": 167,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "ForestWest",
+      "Name": null,
       "Tile": "47, 27",
       "Type": "Forage",
       "ID": 168,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "ForestWest",
+      "Name": null,
       "Tile": "64, 19",
       "Type": "Forage",
       "ID": 168,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "ForestWest",
+      "Name": null,
       "Tile": "70, 26",
       "Type": "Forage",
       "ID": 168,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "ForestWest",
+      "Name": null,
       "Tile": "10, 5",
       "Type": "Forage",
       "ID": 724,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "ForestWest",
+      "Name": null,
       "Tile": "61, 150",
       "Type": "Forage",
       "ID": 109,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "ForestWest",
+      "Name": null,
       "Tile": "59, 147",
       "Type": "Forage",
       "ID": 109,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "ForestWest",
+      "Name": null,
       "Tile": "76, 147",
       "Type": "Forage",
       "ID": 109,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "LostWoods",
+      "Name": null,
       "Tile": "22, 76",
       "Type": "Forage",
       "ID": 104,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Summit",
+      "Name": null,
       "Tile": "21, 25",
       "Type": "Forage",
       "ID": 109,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
-    },
-    {
-      "MapName": "TreasureCave",
-      "Tile": "16, 7",
-      "Type": "Forage",
-      "ID": 166,
-      "Name": null,
-      "DaysUntilExpire": 1,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     }
   ]
 }

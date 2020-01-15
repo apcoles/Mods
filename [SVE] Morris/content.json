@@ -17,6 +17,7 @@
     "LogName": "Morris Gift Tastes",
     "Action": "EditData",
     "Target": "Data/NPCGiftTastes",
+	"When": { "HasSeenEvent: 191393": false },
     "Entries": {
     "MorrisTod": "Ah! A gift worthy of my attention. Thank you, @./730 727 432 578/This is delightful!/72 348 430 428/I don't like this.../346 459 303 -81/What a despicable gift. Get this away from me./167 -74/That's generous of you./-75 -79 -80/"
   }
@@ -34,6 +35,7 @@
     "LogName": "MorrisTod Portraits",
     "Action": "Load",
     "Target": "Portraits/MorrisTod",
+	"When": { "HasSeenEvent: 191393": false },
     "FromFile": "assets/Image/MorrisTod.png"
 },
 {
@@ -60,6 +62,7 @@
     "Target": "Characters/schedules/MorrisTod",
     "FromFile": "assets/Schedule/Schedule.json"
 },
+
 {
     "LogName": "MorrisTod Schedule - Joja Takeover",
     "Action": "EditData",
@@ -73,11 +76,169 @@
     "Target": "Characters/Dialogue/MorrisTod",
     "FromFile": "assets/Dialogue/Dialogue.json"
 },
+
+	{
+      "Action": "EditData",
+      "Target": "data/festivals/winter25",
+      "Entries": {
+        "MorrisTod": "Those Joja gift cards just may provide the store with more loyal customers!$1"
+      }
+    },
+
+//MOVIE THEATER
+
 {
-    "LogName": "MorrisTod Dialogue",
-    "Action": "Load",
-    "Target": "Characters/Dialogue/Morris",
-    "FromFile": "assets/Dialogue/Dialogue.json"
+    "Action": "EditData",
+    "Target": "Data/ConcessionTastes",
+    "Entries": {
+    "Name": "MorrisTod",
+    "LovedTags": [
+      "Gourmet", "Jasmine Tea"
+    ],
+    "LikedTags": [
+      "Healthy", "Salty"
+    ],
+    "DislikedTags": [
+      "Joja"
+    ]
+  },
+},
+
+{
+  "Action": "EditData",
+  "Target": "Data/MoviesReactions",
+  "Entries": {
+  "MorrisTod": {
+    "NPCName": "MorrisTod",
+    "Reactions": [
+      {
+        "Tag": "classic",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "horror",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "winter_movie_1",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Ah, @. This film in particular strikes my interest! Shall we procure seats?$1"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Haha! Fantastic!$1"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "I felt youthful again watching that film! Certainly a gratifying experience!$1"
+          }
+        },
+        "ID": "reaction_2"
+      },
+      {
+        "Tag": "winter_movie_0",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Thank you for inviting me to the cinema, @. Best to get use out of the theater you paid for.$1"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Haha! Splendid!$1"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "That film presented a... unique perspective. Perahps I should follow it by example?$0"
+          }
+        },
+        "ID": "reaction_3"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "It's good to present yourself at the cinema, @. Everyone knows you single-handely paid for the establishment!$1"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/shake MorrisTod 2000/pause 500/message \"Morris is laughing.\"",
+            "Text": "Haha! Quite the show this is!$1"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Well, I must say that was quite entertaining. Until next time, @.$0"
+          }
+        },
+        "ID": "reaction_4"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "After the countless hours I've put into work, I'm looking forward to this delightful film.$0"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "A magnificent film that certainly was. Thank you for the invite.$1"
+          }
+        },
+        "ID": "reaction_5"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Ah, yes. I've heard... poor reviews of this movie but never had the chance to inspect it yet...$0"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "What. No! That makes no sense!$3"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "I will look into removing this movie from the master show list. Can't have poor films ruining our establishment!$3"
+          }
+        },
+        "ID": "reaction_6"
+       }
+     ]
+	}
+  }
 },
 
 {      //MORRIS YEAR 1 SPRING EVENT

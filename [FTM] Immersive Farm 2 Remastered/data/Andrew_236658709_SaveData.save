@@ -5,353 +5,388 @@
   "SavedObjects": [
     {
       "MapName": "Farm",
+      "Name": null,
       "Tile": "107, 138",
       "Type": "LargeObject",
       "ID": 600,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Farm",
+      "Name": null,
       "Tile": "110, 141",
       "Type": "LargeObject",
       "ID": 600,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Farm",
+      "Name": null,
       "Tile": "101, 136",
       "Type": "LargeObject",
       "ID": 600,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Farm",
+      "Name": null,
       "Tile": "119, 142",
       "Type": "LargeObject",
       "ID": 600,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Farm",
+      "Name": null,
       "Tile": "102, 142",
       "Type": "LargeObject",
       "ID": 600,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Farm",
+      "Name": null,
       "Tile": "106, 145",
       "Type": "LargeObject",
       "ID": 600,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Farm",
+      "Name": null,
       "Tile": "99, 140",
       "Type": "LargeObject",
       "ID": 600,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Farm",
+      "Name": null,
       "Tile": "115, 144",
       "Type": "LargeObject",
       "ID": 600,
-      "Name": null,
       "DaysUntilExpire": 0,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Farm",
-      "Tile": "30, 141",
+      "Name": "Iron",
+      "Tile": "49, 146",
       "Type": "Ore",
-      "ID": 670,
-      "Name": "Stone",
+      "ID": 290,
       "DaysUntilExpire": 1,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Farm",
-      "Tile": "28, 151",
-      "Type": "Ore",
-      "ID": 668,
       "Name": "Stone",
-      "DaysUntilExpire": 1,
-      "MonType": null,
-      "SpawnTime": 600
-    },
-    {
-      "MapName": "Farm",
       "Tile": "27, 149",
       "Type": "Ore",
-      "ID": 668,
-      "Name": "Stone",
+      "ID": 670,
       "DaysUntilExpire": 1,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Farm",
-      "Tile": "30, 139",
+      "Name": "Iron",
+      "Tile": "41, 152",
       "Type": "Ore",
-      "ID": 668,
-      "Name": "Stone",
+      "ID": 290,
       "DaysUntilExpire": 1,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Farm",
-      "Tile": "30, 144",
+      "Name": "Stone",
+      "Tile": "37, 148",
       "Type": "Ore",
       "ID": 668,
-      "Name": "Stone",
       "DaysUntilExpire": 1,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Farm",
-      "Tile": "37, 152",
-      "Type": "Ore",
-      "ID": 670,
       "Name": "Stone",
+      "Tile": "23, 147",
+      "Type": "Ore",
+      "ID": 668,
       "DaysUntilExpire": 1,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Farm",
-      "Tile": "31, 149",
+      "Name": "Stone",
+      "Tile": "36, 147",
       "Type": "Ore",
       "ID": 670,
-      "Name": "Stone",
-      "DaysUntilExpire": 2,
-      "MonType": null,
-      "SpawnTime": 600
+      "DaysUntilExpire": 1,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Farm",
-      "Tile": "42, 151",
-      "Type": "Ore",
-      "ID": 670,
       "Name": "Stone",
-      "DaysUntilExpire": 2,
-      "MonType": null,
-      "SpawnTime": 600
-    },
-    {
-      "MapName": "Farm",
-      "Tile": "35, 143",
-      "Type": "Ore",
-      "ID": 670,
-      "Name": "Stone",
-      "DaysUntilExpire": 2,
-      "MonType": null,
-      "SpawnTime": 600
-    },
-    {
-      "MapName": "Farm",
-      "Tile": "44, 143",
-      "Type": "Ore",
-      "ID": 670,
-      "Name": "Stone",
-      "DaysUntilExpire": 2,
-      "MonType": null,
-      "SpawnTime": 600
-    },
-    {
-      "MapName": "Farm",
-      "Tile": "31, 142",
+      "Tile": "19, 139",
       "Type": "Ore",
       "ID": 668,
-      "Name": "Stone",
-      "DaysUntilExpire": 3,
-      "MonType": null,
-      "SpawnTime": 600
+      "DaysUntilExpire": 1,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Farm",
-      "Tile": "25, 148",
+      "Name": "Copper",
+      "Tile": "24, 144",
+      "Type": "Ore",
+      "ID": 751,
+      "DaysUntilExpire": 1,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Farm",
+      "Name": "Copper",
+      "Tile": "19, 137",
+      "Type": "Ore",
+      "ID": 751,
+      "DaysUntilExpire": 1,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Farm",
+      "Name": "Stone",
+      "Tile": "27, 151",
       "Type": "Ore",
       "ID": 668,
-      "Name": "Stone",
-      "DaysUntilExpire": 3,
-      "MonType": null,
-      "SpawnTime": 600
+      "DaysUntilExpire": 2,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Farm",
+      "Name": "Stone",
       "Tile": "46, 151",
       "Type": "Ore",
       "ID": 670,
+      "DaysUntilExpire": 2,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Farm",
       "Name": "Stone",
+      "Tile": "29, 151",
+      "Type": "Ore",
+      "ID": 668,
+      "DaysUntilExpire": 2,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Farm",
+      "Name": "Stone",
+      "Tile": "42, 142",
+      "Type": "Ore",
+      "ID": 670,
+      "DaysUntilExpire": 2,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Farm",
+      "Name": "Stone",
+      "Tile": "32, 149",
+      "Type": "Ore",
+      "ID": 670,
       "DaysUntilExpire": 3,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Farm",
-      "Tile": "30, 140",
-      "Type": "Ore",
-      "ID": 668,
       "Name": "Stone",
+      "Tile": "31, 138",
+      "Type": "Ore",
+      "ID": 670,
       "DaysUntilExpire": 3,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Farm",
-      "Tile": "35, 152",
+      "Name": "Geode",
+      "Tile": "31, 146",
       "Type": "Ore",
-      "ID": 668,
-      "Name": "Stone",
+      "ID": 75,
       "DaysUntilExpire": 3,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Farm",
-      "Tile": "35, 151",
+      "Name": "Copper",
+      "Tile": "33, 138",
+      "Type": "Ore",
+      "ID": 751,
+      "DaysUntilExpire": 3,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Farm",
+      "Name": "Stone",
+      "Tile": "34, 153",
+      "Type": "Ore",
+      "ID": 670,
+      "DaysUntilExpire": 3,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Farm",
+      "Name": "Stone",
+      "Tile": "35, 153",
       "Type": "Ore",
       "ID": 668,
-      "Name": "Stone",
-      "DaysUntilExpire": 4,
-      "MonType": null,
-      "SpawnTime": 600
+      "DaysUntilExpire": 3,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Farm",
-      "Tile": "34, 143",
+      "Name": "Stone",
+      "Tile": "30, 141",
+      "Type": "Ore",
+      "ID": 670,
+      "DaysUntilExpire": 3,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Farm",
+      "Name": "Copper",
+      "Tile": "31, 139",
+      "Type": "Ore",
+      "ID": 751,
+      "DaysUntilExpire": 3,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Farm",
+      "Name": "Stone",
+      "Tile": "26, 142",
       "Type": "Ore",
       "ID": 668,
-      "Name": "Stone",
       "DaysUntilExpire": 4,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Farm",
-      "Tile": "41, 144",
+      "Name": "Stone",
+      "Tile": "31, 145",
+      "Type": "Ore",
+      "ID": 670,
+      "DaysUntilExpire": 4,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Farm",
+      "Name": "Stone",
+      "Tile": "43, 152",
       "Type": "Ore",
       "ID": 668,
-      "Name": "Stone",
       "DaysUntilExpire": 4,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Farm",
-      "Tile": "30, 147",
+      "Name": "FrozenGeode",
+      "Tile": "43, 145",
       "Type": "Ore",
-      "ID": 668,
-      "Name": "Stone",
+      "ID": 76,
       "DaysUntilExpire": 4,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Farm",
-      "Tile": "19, 142",
+      "Name": "Iron",
+      "Tile": "46, 149",
       "Type": "Ore",
-      "ID": 670,
-      "Name": "Stone",
+      "ID": 290,
       "DaysUntilExpire": 4,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     },
     {
       "MapName": "Farm",
-      "Tile": "38, 148",
-      "Type": "Ore",
-      "ID": 670,
       "Name": "Stone",
-      "DaysUntilExpire": 4,
-      "MonType": null,
-      "SpawnTime": 600
-    },
-    {
-      "MapName": "Farm",
-      "Tile": "26, 139",
+      "Tile": "17, 140",
       "Type": "Ore",
       "ID": 670,
-      "Name": "Stone",
       "DaysUntilExpire": 4,
-      "MonType": null,
-      "SpawnTime": 600
-    },
-    {
-      "MapName": "Farm",
-      "Tile": "41, 146",
-      "Type": "Ore",
-      "ID": 670,
-      "Name": "Stone",
-      "DaysUntilExpire": 4,
-      "MonType": null,
-      "SpawnTime": 600
-    },
-    {
-      "MapName": "Farm",
-      "Tile": "39, 148",
-      "Type": "Ore",
-      "ID": 670,
-      "Name": "Stone",
-      "DaysUntilExpire": 4,
-      "MonType": null,
-      "SpawnTime": 600
-    },
-    {
-      "MapName": "Farm",
-      "Tile": "45, 148",
-      "Type": "Ore",
-      "ID": 670,
-      "Name": "Stone",
-      "DaysUntilExpire": 4,
-      "MonType": null,
-      "SpawnTime": 600
-    },
-    {
-      "MapName": "DeepCave",
-      "Tile": "11, 30",
-      "Type": "Forage",
-      "ID": 568,
-      "Name": null,
-      "DaysUntilExpire": 1,
-      "MonType": null,
-      "SpawnTime": 600
-    },
-    {
-      "MapName": "DeepCave",
-      "Tile": "11, 27",
-      "Type": "Forage",
-      "ID": 535,
-      "Name": null,
-      "DaysUntilExpire": 1,
-      "MonType": null,
-      "SpawnTime": 600
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
     }
   ]
 }
