@@ -1,0 +1,14 @@
+============== SUSAN ==============
+
+Susan is the owner of Emerald Farm at the railroad. Her farm specializes in juice and exporting 
+90% of shipments to provinces around the Ferngill Republic. She is good friends with Robin, Lewis,
+and folks in Grampleton. Her hobbies include crafting, traveling, cooking sweets, and taking care over her many plants.
+
+=== GIFT TASTES ===
+
+Love: pancakes, chocolate cake, pink cake, cookie, pumpkin pie, rhubarb pie, blueberry tart, ice cream, blackberry cobbler, cranberry candy, maple bar, poppyseed muffin
+Like: emerald, hardwood, gold bar, iron bar, copper bar, quartz, golden pumpkin, prismatic shard, rabbits foot
+Neutral: wine, juice, coffee
+Dislike: beer, mead, pale ale,
+Hate: joja cola, spicy eel, holly
+
